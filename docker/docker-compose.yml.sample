@@ -9,7 +9,7 @@ services:
     ports:
       - 7070:7070
     env_file:
-      - .env
+      - example.env
     restart: always
     command: node dist/bundle.js
 
