@@ -2,7 +2,7 @@
 
 ## How to create environment file
 
-Create a copy of example.env file
+Create a copy of example.env file. Can use the same file instead of copy new one. Dont need to copy.
 
 ```
 $ cp docker/example.env .env
