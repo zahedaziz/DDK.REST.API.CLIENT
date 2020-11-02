@@ -3,7 +3,7 @@
 ## Software
 
 1. Docker version 19.03.4 or above
-# more detail on https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
+more detail on https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
 
   Step 1: Update Software Repositories
   $ sudo apt-get update
@@ -19,7 +19,7 @@
   $ sudo systemctl enable docker
 
 2. Docker-compose version 1.17.1 or above
-# https://www.techiediaries.com/ubuntu/install-docker-19-docker-compose-ubuntu-20-04/
+https://www.techiediaries.com/ubuntu/install-docker-19-docker-compose-ubuntu-20-04/
 
   Install the Stable Docker-Compose Version from the Ubuntu Repository
   $ sudo apt install docker-compose
