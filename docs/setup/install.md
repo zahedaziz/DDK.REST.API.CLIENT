@@ -8,6 +8,10 @@ If you already configured the Docker network when starting the blockchain node, 
 
 To install, enter the following command in the docker folder:
 
+```
+$ cd ./DDK.REST.API.CLIENT/docker/
+```
+
 ```bash
 sh install.sh
 ```
