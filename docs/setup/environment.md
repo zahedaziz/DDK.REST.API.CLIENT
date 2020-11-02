@@ -22,7 +22,7 @@ SERVER_PORT=7070
 
 It is a comma-separated host:port string
 
-List with trusted nodes is [here](https://github.com/AraiEzzra/DDKCORE/blob/master/docs/api/example.md)
+List with trusted nodes is [here](https://github.com/AraiEzzra/DDKCORE/blob/master/docs/api/example.md) or [here](https://debugger.ddkoin.com/node)
 
 Example
 
