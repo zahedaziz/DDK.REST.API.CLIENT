@@ -12,6 +12,17 @@ module.exports = {
                 test: /\.ts?$/,
                 use: 'ts-loader',
                 exclude: /node_modules/
+                
+                //control API access boleh try utk privatekan access kepada whitelist IP shj
+                //https://lisk.io/documentation/lisk-sdk/guides/node-management/api-access.html
+                //"modules": {
+                //"http_api": { 
+                //"enabled": true, 
+                //"access": { 
+                //"public": false, 
+                //"whiteList": ["127.0.0.1"], 
+      },
+                
             }
         ]
     },
